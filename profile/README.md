@@ -1,5 +1,5 @@
 ## What is this?
-This is 402's github organization holding our public and private code. We also have an OSS repository that is a placeholder until we organize everything and decide what we are making open-sourse.
+This is 402's github organization holding our public and private code. We also have an OSS repository that is a placeholder until we organize everything and decide what we are making open-source.
 
 ## Who are we?
 We are 402. A startup dedicated to making the internet a better place. Our goal is to make monetization native to browsers and the web. We are also focused on making tools for creators and allowing people to own their distribution. We are not Web 3.0, although we share some of the same ideals.
